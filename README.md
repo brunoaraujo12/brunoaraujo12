@@ -1,6 +1,6 @@
 ### Salve! Sou Bruno Araujo. 👋
 
-- 🔭 Atualmente estou trabalhando com Power Bi
+- 🔭 Atualmente estou trabalhando com Power BI
 - 🌱 Estou aprendendo C#
 - 📫 brunoaraujo-12@hotmail.com
 - 😄 Pronouns: ele/dele
